@@ -1,8 +1,19 @@
 # h1 - raportti
-Repository for h1-assignments
+## Asennus
 
-klo 18.47 työnteko alkaa
+18.47 työnteko alkaa
 
-klo 18.54 virtualbox löytyy koneelta, debian ISO latautuu
+18.54 virtualbox löytyy valmiiksi koneelta, debian ISO latautuu
 
-19.04 asetukset valittu, ensimmäinen boot
+19.04 virtuaaliympäristön asetukset valittu, ensimmäinen boot
+
+19.12 laitteisto ja internet-yhteys toimii virtuaaliympäristössä
+
+19.18 debian latautuu
+
+19.23 lataus valmis, uudelleenkäynnistys
+
+19.27 latasin uusimmat päivitykset ja käynnistin palomuurin komentokehotteella
+
+19.31
+
