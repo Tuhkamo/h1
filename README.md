@@ -23,5 +23,4 @@
 
 19.47 aloitan VirtualBox Guest Additionin latausprosessin
 
-19.49 saan alla olevan virheilmoituksen:
-
+![Add file: Upload](additions.png)
