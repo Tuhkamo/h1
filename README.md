@@ -20,16 +20,16 @@
 
 19.18 Debian installoidaan
 
-19.23 lataus valmis, uudelleenkäynnistys
+19.23 Lataus valmis, uudelleenkäynnistys
 
 ![Add file: Upload](login.png)
 
-19.27 latasin uusimmat päivitykset ja käynnistin palomuurin komentokehotteella
+19.27 Latasin uusimmat päivitykset ja käynnistin palomuurin komentokehotteella
 
-19.47 aloitan VirtualBox Guest Additionin latausprosessin
+19.47 Aloitan VirtualBox Guest Additionin latausprosessin
 
 ![Add file: Upload](additions.png)
 
-19.50 kokonäyttö näkymä toimii!
+19.50 Kokonäyttö-näkymä toimii!
 
 ![Add file: Upload](fullscreen.png)
