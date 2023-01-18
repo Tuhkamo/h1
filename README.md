@@ -7,7 +7,11 @@
 
 19.04 virtuaaliympäristön asetukset valittu, ensimmäinen boot
 
+![Add file: Upload](virtualbox.png)
+
 19.12 laitteisto ja internet-yhteys toimii virtuaaliympäristössä
+
+![Add file: Upload](nettikuva.png)
 
 19.18 debian latautuu
 
