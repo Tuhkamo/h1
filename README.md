@@ -13,6 +13,8 @@
 
 19.23 lataus valmis, uudelleenkäynnistys
 
+![Add file: Upload](upload-files.png)
+
 19.27 latasin uusimmat päivitykset ja käynnistin palomuurin komentokehotteella
 
 19.31
