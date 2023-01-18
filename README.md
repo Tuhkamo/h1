@@ -24,3 +24,7 @@
 19.47 aloitan VirtualBox Guest Additionin latausprosessin
 
 ![Add file: Upload](additions.png)
+
+19.50 kokonäyttö näkymä toimii!
+
+![Add file: Upload](fullscreen.png)
