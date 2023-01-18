@@ -21,5 +21,7 @@
 
 19.27 latasin uusimmat päivitykset ja käynnistin palomuurin komentokehotteella
 
-19.31
+19.47 aloitan VirtualBox Guest Additionin latausprosessin
+
+19.49 saan alla olevan virheilmoituksen:
 
