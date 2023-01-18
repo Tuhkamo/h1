@@ -5,3 +5,4 @@ klo 18.47 työnteko alkaa
 
 klo 18.54 virtualbox löytyy koneelta, debian ISO latautuu
 
+19.04 asetukset valittu, ensimmäinen boot
