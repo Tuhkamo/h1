@@ -1,19 +1,24 @@
 # h1 - raportti
-## Asennuksen raportointi - Windows 11 
+## Asennuksen raportointi - Windows 11
+- Tehtävänä on ladata Linux-käyttöjärjestelmän ISO-tiedosto, VirtualBox -käyttöympäristö ja alustaa virtuaalikone. Käyttöympäristö minulta löytyy jo entuudestaan, niin en raportoi sen asennusprosessia tarkemmin.
 
-18.47 työnteko alkaa
+## Käyttämäni laitteisto
 
-18.54 virtualbox löytyy valmiiksi koneelta, debian ISO latautuu
+![Add file: Upload](laitteisto.png)
 
-19.04 virtuaaliympäristön asetukset valittu, ensimmäinen boot
+18.47 Työnteko alkaa
+
+18.54 VirtualBox löytyy valmiiksi koneelta, debian ISO latautuu
+
+19.04 Virtuaaliympäristön asetukset valittu, ensimmäinen boot
 
 ![Add file: Upload](virtualbox.png)
 
-19.12 laitteisto ja internet-yhteys toimii virtuaaliympäristössä
+19.12 Laitteisto ja internet-yhteys toimii virtuaaliympäristössä
 
 ![Add file: Upload](nettikuva.png)
 
-19.18 debian latautuu
+19.18 Debian installoidaan
 
 19.23 lataus valmis, uudelleenkäynnistys
 
